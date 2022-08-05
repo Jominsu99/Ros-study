@@ -10,13 +10,13 @@ ROS
 
 Robot Operating System 의 등장 배경
 
-1. 기존의 존재하는 다양한 로봇 opensource 제공
+(1) 기존의 존재하는 다양한 로봇 opensource 제공
 - (기능 패키지들로 구성)
-2. 로봇 개발에 필요한 다양한 툴 제공
+(2) 로봇 개발에 필요한 다양한 툴 제공
 - 시뮬레이션 → Gazebo, ISSAC
 - 임베디드 → ROS = rosserial, ROS2 = micro-ROS
 - 시각화, 디버깅 → RViz, RQt
-3. 동작에 있어 안전함을 보장 (강인한 로봇)
+(3) 동작에 있어 안전함을 보장 (강인한 로봇)
 
 ROS2
 
