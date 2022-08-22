@@ -39,7 +39,8 @@ $ ros2 node list
 
 Ex) turtlesim
 
-![Screenshot from 2022-08-08 18-40-25.png](Lec-5%20740b8a1be7a6481f903cfa90a9408862/Screenshot_from_2022-08-08_18-40-25.png)
+![Screenshot_from_2022-08-08_18-40-25](https://user-images.githubusercontent.com/82068871/185960166-2f5a083d-eddc-4f37-87d3-317508ecfc0d.png)
+
 
 위와 같이 3개의 리스트들이 있는 걸 알 수 있다.
 
@@ -49,7 +50,8 @@ Ex) turtlesim
 
 Ex) turtlesim
 
-![Screenshot from 2022-08-08 18-37-55.png](Lec-5%20740b8a1be7a6481f903cfa90a9408862/Screenshot_from_2022-08-08_18-37-55.png)
+![Screenshot_from_2022-08-08_18-37-55](https://user-images.githubusercontent.com/82068871/185960205-2b401662-93a6-41fa-acff-78074742eb16.png)
+
 
 위와 같이 topic, service, action, parameter 의 정보를 표시하고 있다.
 
@@ -70,7 +72,8 @@ $ rqt_graph
 
 Ex) turtlesim
 
-![Screenshot from 2022-08-08 18-43-51.png](Lec-5%20740b8a1be7a6481f903cfa90a9408862/Screenshot_from_2022-08-08_18-43-51.png)
+![Screenshot_from_2022-08-08_18-43-51](https://user-images.githubusercontent.com/82068871/185960242-036203cf-8f31-4477-9779-06f77e16b114.png)
+
 
 여기서 알아두어야 할 점은
 
@@ -82,7 +85,7 @@ Ex) turtlesim
 
 (rnanosaur의 패키지 예시)
 
-![Screenshot from 2022-08-08 18-46-40.png](Lec-5%20740b8a1be7a6481f903cfa90a9408862/Screenshot_from_2022-08-08_18-46-40.png)
+![Screenshot_from_2022-08-08_18-46-40](https://user-images.githubusercontent.com/82068871/185960284-26a866e5-fedc-4714-867e-64fd3492c7f6.png)
 
 - 파일 관점 ⇒ 관련 라이브러리, 모델링 파일, 설정 파일들을 모아둔 폴더
 - 기능 관점 ⇒ 시뮬레이션, 하드웨어 관련, 모델링, 원격 조종 등으로 분리시킨 모듈
@@ -108,9 +111,11 @@ python일 경우 2번
 
 (Hello의 이름으로 C++ 패키지 생성)
 
-![Screenshot from 2022-08-08 21-54-47.png](Lec-5%20740b8a1be7a6481f903cfa90a9408862/Screenshot_from_2022-08-08_21-54-47.png)
+![Screenshot_from_2022-08-08_21-54-47](https://user-images.githubusercontent.com/82068871/185960311-d96e803b-d521-4f4a-a768-0d116d15433d.png)
 
-![Screenshot from 2022-08-08 21-54-59.png](Lec-5%20740b8a1be7a6481f903cfa90a9408862/Screenshot_from_2022-08-08_21-54-59.png)
+![Screenshot_from_2022-08-08_21-54-59](https://user-images.githubusercontent.com/82068871/185960330-29503cb1-a8cf-44a7-b3a3-13a019147b8e.png)
+
+
 
 ## 메모
 
