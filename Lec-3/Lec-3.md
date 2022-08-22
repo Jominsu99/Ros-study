@@ -197,8 +197,8 @@ setx -m SDF_PATH C:\opt\ros\foxy\x64\share\sdformat\1.6
 ---
 
 - (절대 경로 얻는 법)
+![%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-08-08_003206](https://user-images.githubusercontent.com/82068871/185958939-dfa88dff-dd8b-4b1c-b8fa-0ccc5d9b4a40.png)
 
-![화면 캡처 2022-08-08 003206.png](Lec-3%20d26fcdba065b47298d9591872e3ae40a/%25ED%2599%2594%25EB%25A9%25B4_%25EC%25BA%25A1%25EC%25B2%2598_2022-08-08_003206.png)
 
 위에 사진을 클릭한다.
 
