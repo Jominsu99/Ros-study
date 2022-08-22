@@ -56,7 +56,7 @@ $ ls ros_tutorials
 
 여기서 오류가 발생한다면
 
-![Screenshot from 2022-08-07 23-08-30.png](Lec-2%20fb1966ca54b84171a7d3c560d4e596a5/Screenshot_from_2022-08-07_23-08-30.png)
+![Screenshot_from_2022-08-07_23-08-30](https://user-images.githubusercontent.com/82068871/185958220-a6babadb-265b-4467-94cc-3561579eaf63.png)
 
 위에 코드를 치면 된다.
 
