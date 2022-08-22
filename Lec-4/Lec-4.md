@@ -47,7 +47,8 @@ $ ros2 launch gcamp_gazebo gcamp_world.launch.py
 - 마우스 힐 ⇒ 좌표계 회전, 확대, 축소
 - 물체 삭제 ⇒ delete, 물체 추가 ⇒ insert, 물체 이동 ⇒ 왼쪽 2번째 아이콘, View 전환 ⇒ 오른쪽 끝 아이콘
 
-![Screenshot from 2022-08-08 17-22-48.png](Lec-4%207cfad7677d4840c581682bc4f63fd669/Screenshot_from_2022-08-08_17-22-48.png)
+![Screenshot_from_2022-08-08_17-22-48](https://user-images.githubusercontent.com/82068871/185959549-c77c4fb6-94fa-407e-8e99-3ee258c12816.png)
+
 
 - 종료 ⇒ killg
 
