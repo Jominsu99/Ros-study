@@ -21,7 +21,8 @@ $ ros2 run py_topic_pkg cmd_vel_pub_node
 
 동작 시 내부적으로 어떤 작업이 이루어졌냐면
 
-![Screenshot from 2022-08-09 03-11-57.png](Lec-7%20f2e2c1e460574568a6e863e3e9179342/Screenshot_from_2022-08-09_03-11-57.png)
+![Screenshot_from_2022-08-09_03-11-57](https://user-images.githubusercontent.com/82068871/185961110-b0f73e2f-62f7-4306-bc50-b79f04228095.png)
+
 
 위에 그림처럼 pub_node가 cmd_vel이라는 topic을 통해 drive_contorller 에게 데이터를 보낸걸 알 수 있다. 여기서 중요한 점은
 
