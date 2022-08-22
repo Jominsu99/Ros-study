@@ -70,7 +70,8 @@ $ rosdep install -i --from-path src --rosdistro foxy -y
 
 여기서 오류가 발생한다면
 
-![Screenshot from 2022-08-07 23-09-10.png](Lec-2%20fb1966ca54b84171a7d3c560d4e596a5/Screenshot_from_2022-08-07_23-09-10.png)
+![Screenshot_from_2022-08-07_23-09-10](https://user-images.githubusercontent.com/82068871/185958371-446d4ca3-ea0f-420b-926c-b1b751fda510.png)
+
 
 위에 코드를 치면된다.
 
@@ -125,4 +126,5 @@ alias killg='killall -9 gzserver && killall -9 gzclient && killall -9 rosmaster'
 
 (실행 화면)
 
-![Screenshot from 2022-08-07 23-20-53.png](Lec-2%20fb1966ca54b84171a7d3c560d4e596a5/Screenshot_from_2022-08-07_23-20-53.png)
+![Screenshot_from_2022-08-07_23-20-53](https://user-images.githubusercontent.com/82068871/185958396-e0b17f23-69a5-4375-997f-cfb758fba662.png)
+
